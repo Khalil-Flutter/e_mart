@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4839210077",
+    "project_id": "electronic-mart-ce09c",
+    "storage_bucket": "electronic-mart-ce09c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4839210077:android:2ae0e0e98e67ed6f0d21b4",
+        "android_client_info": {
+          "package_name": "com.app.e_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4839210077-1opqse4ktfo810grc3en7e25j7gq4q45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5oRm0CukOXbK3S7XmlThKZ9NmpxcoypA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4839210077-1opqse4ktfo810grc3en7e25j7gq4q45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
